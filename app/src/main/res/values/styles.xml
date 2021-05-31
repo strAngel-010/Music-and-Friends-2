@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="BlueButton" android:parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">#00BFFF</item>
+        <item name="colorControlHighlight">#0040FF</item>
+    </style>
+
+    <style name="RedButton" android:parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">#FF0000</item>
+        <item name="colorControlHighlight">#990000</item>
+    </style>
+</resources>

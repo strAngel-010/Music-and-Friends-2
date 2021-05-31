@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music and Friends</string>
+    <string name="loading">Загрузка...</string>
+    <string name="fav_music">Любимая музыка:</string>
+    <string name="friends">Друзья:</string>
+    <string name="city">Город:</string>
+</resources>
